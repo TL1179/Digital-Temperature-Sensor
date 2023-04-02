@@ -8,9 +8,9 @@ I made some minor adjustments to the Arduino code provided from this video https
   There are also two linked githubs that had the libraries for the OneWire communication and code for multiple devices linked here https://github.com/PaulStoffregen/OneWire and here https://github.com/milesburton/Arduino-Temperature-Control-Library.
 
 
-<p float="center">
-  <img src="https://user-images.githubusercontent.com/95442814/229376661-9f7f2b3c-a889-47da-b8e3-02390ab8a558.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/95442814/229376677-852dcbc5-eea4-44bc-982f-53aeb9246b6b.png" width="300" /> 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/95442814/229376661-9f7f2b3c-a889-47da-b8e3-02390ab8a558.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/95442814/229376677-852dcbc5-eea4-44bc-982f-53aeb9246b6b.png" width="400" /> 
 </p>
 
 I set my breadboard up like this with the two sensors in parallel with each other, utilizing the one wire communication.

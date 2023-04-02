@@ -9,8 +9,8 @@ I made some minor adjustments to the Arduino code provided from this video https
 
 
 <p float="left">
-  <img src="/(https://user-images.githubusercontent.com/95442814/229376661-9f7f2b3c-a889-47da-b8e3-02390ab8a558.png)" width="100" />
-  <img src="/(https://user-images.githubusercontent.com/95442814/229376677-852dcbc5-eea4-44bc-982f-53aeb9246b6b.png)" width="100" /> 
+  <img src="(https://user-images.githubusercontent.com/95442814/229376661-9f7f2b3c-a889-47da-b8e3-02390ab8a558.png)" width="100" />
+  <img src="(https://user-images.githubusercontent.com/95442814/229376677-852dcbc5-eea4-44bc-982f-53aeb9246b6b.png)" width="100" /> 
 </p>
 
 I set my breadboard up like this with the two sensors in parallel with each other, utilizing the one wire communication.

@@ -7,6 +7,11 @@ In this project I purchased 2 DS18B20 digital temperature sensors.
 I made some minor adjustments to the Arduino code provided from this video https://www.youtube.com/watch?v=lSVOtoMqtrI.
   There are also two linked githubs that had the libraries for the OneWire communication and code for multiple devices linked here https://github.com/PaulStoffregen/OneWire and here https://github.com/milesburton/Arduino-Temperature-Control-Library.
 
+![image](https://user-images.githubusercontent.com/95442814/229376661-9f7f2b3c-a889-47da-b8e3-02390ab8a558.png)
+![image](https://user-images.githubusercontent.com/95442814/229376677-852dcbc5-eea4-44bc-982f-53aeb9246b6b.png)
+
+I set my breadboard up like this with the two sensors in parallel with each other, utilizing the one wire communication.
+
 I tried to understand the different components that I would need for the C implementation of this code.
 
 ![image](https://user-images.githubusercontent.com/95442814/229375109-04f74d54-d500-40b4-9efc-6fd53d1627ff.png)

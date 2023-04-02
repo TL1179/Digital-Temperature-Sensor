@@ -1,12 +1,11 @@
 # Digital-Temperature-Sensor
 
 In this project I purchased 2 DS18B20 digital temperature sensors.
-My goal was the get a working library that others in the class could utilize if they wanted.
+  My goal was the get a working library that others in the class could utilize if they wanted.
 
 
 I made some minor adjustments to the Arduino code provided from this video https://www.youtube.com/watch?v=lSVOtoMqtrI.
-
-There are also two linked githubs that had the libraries for the OneWire communication and code for multiple devices.
+  There are also two linked githubs that had the libraries for the OneWire communication and code for multiple devices linked here https://github.com/PaulStoffregen/OneWire and here https://github.com/milesburton/Arduino-Temperature-Control-Library.
 
 After making the minor adjustments to the arduino code, I tried to understand the different components that I would need for the C implementation of it.
 

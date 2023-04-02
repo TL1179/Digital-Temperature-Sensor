@@ -9,8 +9,7 @@ There are also two linked githubs that had the libraries for the OneWire communi
 
 After making the minor adjustments to the arduino code, I tried to understand the different components that I would need for the C implementation of it.
 
+First thing was that I needed to breakdown these two libraries to try and reprlicate it.
 ![image](https://user-images.githubusercontent.com/95442814/229374981-46fb83f5-81c8-47ca-8071-1c72ead2e957.png)
-
-Obviously I needed to breakdown these two libraries to try and reprlicate it.
 
 I also found this code that I tried to compare with to create the libraries https://github.com/nimaltd/ds18b20.

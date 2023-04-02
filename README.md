@@ -15,6 +15,8 @@ I made some minor adjustments to the Arduino code provided from this video https
 
 I set my breadboard up like this with the two sensors in parallel with each other, utilizing the one wire communication.
 
+It ended up working out with the given libraries.  You can see a video of it working at https://youtube.com/shorts/616Ip2BNnMo.
+
 I tried to understand the different components that I would need for the C implementation of this code.
 
 ![image](https://user-images.githubusercontent.com/95442814/229375109-04f74d54-d500-40b4-9efc-6fd53d1627ff.png)

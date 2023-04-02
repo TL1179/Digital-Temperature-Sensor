@@ -37,4 +37,7 @@ First thing was that I needed to breakdown these two libraries to try and replic
 
 ![image](https://user-images.githubusercontent.com/95442814/229374981-46fb83f5-81c8-47ca-8071-1c72ead2e957.png)
 
-I also found this code that I tried to compare with to create the libraries https://github.com/nimaltd/ds18b20.
+I also found this code that I tried to compare to create the libraries https://github.com/nimaltd/ds18b20.
+
+
+Sadly my .h and .c files to create a OneWire communication and Sensor Control library failed.

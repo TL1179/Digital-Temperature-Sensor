@@ -41,3 +41,4 @@ I also found this code that I tried to compare to create the libraries https://g
 
 
 Sadly my .h and .c files to create a OneWire communication and Sensor Control library failed.
+
